@@ -84,8 +84,8 @@ Another
 
 ### Task Lists
 
-[x] Task 1
-[] Task 2
+- [x] Task 1
+- [ ] Task 2
 
 ## Tables
 
