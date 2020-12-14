@@ -82,19 +82,20 @@ Another
 1. Inserted
 1. Another yet
 
-### Task Lists
-
-- [x] Task 1
-- [ ] Task 2
-
 ## Tables
 
 Col 1 | Col 2 | Col 3
 --- | --- | ---
 El 1 | El 2 | El 3
 
+## Task List
+- [ ] This isn't done
+- [X] This is done
+
 ## Emoji
+
 :smile:
+:wave:
 
 ## Raw HTML
-<h3>Hello!</h3>
+<h3>This is HTML</h3>
